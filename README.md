@@ -1,7 +1,7 @@
-![logo](https://github.com/keshri29/keshri29/blob/main/badal.gif)
+
 <h1 align="center">Hi 👋, I'm Anurag kumar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right"  alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47gqkokl41obwhd4giexzuwexxsg8klsxbttyjrkss&rid=giphy.gif&ct=g">
+<cid=ecf05e47gqkokl41obwhd4giexzuwexxsg8klsxbttyjrkss&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshri29&label=Profile%20views&color=0e75b6&style=flat" alt="keshri29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshri29" alt="keshri29" /></a> </p>
