@@ -1,60 +1,292 @@
-<h1 align="center">Hi 👋, I'm Anurag kumar</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# 👋 Hi, I'm Anurag Kumar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshri29&label=Profile%20views&color=0e75b6&style=flat" alt="keshri29" /> </p>
+### Full-Stack Developer | MERN | React | Node.js | Backend Engineering
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshri29" alt="keshri29" /></a> </p>
+I'm a **Full-Stack Developer from India** focused on building practical, scalable and user-friendly web applications.
 
-<p align="left"> <a href="https://twitter.com/https://x.com/keshri029" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/keshri029?logo=twitter&style=for-the-badge" alt="https://x.com/keshri029" /></a> </p>
+I enjoy working across the stack — from designing responsive interfaces and reusable React components to building REST APIs, authentication systems, databases and backend services.
 
-- 🔭 I’m currently working on **Power of AI**
+Currently, I'm focusing on becoming a stronger **software engineer**, with particular attention to **backend engineering, system design, DSA, scalable architectures and AI-powered products**.
 
-- 🌱 I’m currently learning **DSA,Wordpress,Elementor,Nodejs,Backendetc.**
+---
 
-- 👯 I’m looking to collaborate on **full stack project**
+## 🚀 About Me
 
-- 🤝 I’m looking for help with **for my Power of AI projectt**
+* 💻 Full-Stack Developer with professional experience building web applications
+* ⚛️ Strong focus on **React.js, Next.js, Node.js and Express.js**
+* 🗄️ Experience working with **MongoDB, MySQL and SQL Server**
+* 🔐 Interested in authentication, APIs, backend architecture and application security
+* 🧠 Currently strengthening **DSA and System Design**
+* 🤖 Exploring **AI-powered applications and products**
+* 🛠️ Comfortable working across both frontend and backend
+* 🌱 Interested in building products rather than just writing code
+* 🤝 Open to collaborating on meaningful full-stack and open-source projects
 
-- 👨‍💻 All of my projects are available at [github](github)
+---
 
-- 📝 I write articles on [https://vsanurag.netlify.app/](https://vsanurag.netlify.app/)
+## 🧑‍💻 Professional Journey
 
-- 💬 Ask me about **Front-end|BackendWordPress | HTML | CSS | JavaScript | .Net | MySQL | WordPress-CLI | ReactJs | NodeJS| AngularJS | MongoDB | EpressJs | Github| OOPS | CPP | Manual Testing**
+### Software Engineer / Full-Stack Developer
 
-- 📫 How to reach me **keshrianurag690@gmail.com**
+I've worked across multiple environments and projects, gaining experience with:
 
-- 📄 Know about my experiences [Software Developer at Pizone Infotech solutions](Software Developer at Pizone Infotech solutions)
+* **MERN Stack**
+* React.js & Next.js
+* Node.js & Express.js
+* Angular
+* .NET / C#
+* MongoDB
+* MySQL / SQL Server
+* REST APIs
+* Authentication & authorization
+* Git & GitHub
+* Responsive UI development
+* PWA development
+* Real-time applications
+* Deployment and production environments
 
-- ⚡ Fun fact **I am smart-worker**
+My goal is to continuously move from **"someone who can build applications"** toward **"an engineer who understands why applications are designed the way they are."**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/keshri029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/keshri029" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anuragkeshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragkeshri" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21105531/anurag-keshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21105531/anurag-keshri" height="30" width="40" /></a>
-<a href="https://fb.com/anuragkeshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuragkeshri" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anurag.env/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anurag.env/" height="30" width="40" /></a>
-<a href="https://medium.com/@keshrianurag690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@keshrianurag690" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anuragkeshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anuragkeshri" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/keshri005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="keshri005" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/keshrianurag690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keshrianurag690" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="panda" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/keshrianurag690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="keshrianurag690" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/keshrianurag690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="keshrianurag690" height="30" width="40" /></a>
-<a href="https://discord.gg/#9685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9685" height="30" width="40" /></a>
-<a href="/https://vsanurag.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://vsanurag.netlify.app/" height="30" width="40" /></a>
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,js,ts,html,css,tailwind,bootstrap,redux" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**React.js • Next.js • Angular • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS • Bootstrap • Redux**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshri29&show_icons=true&locale=en&layout=compact" alt="keshri29" /></p>
+### Backend
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshri29&show_icons=true&locale=en" alt="keshri29" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshri29&" alt="keshri29" /></p>
+**Node.js • Express.js • REST APIs • .NET • C#**
 
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+</p>
+
+**MongoDB • MySQL • PostgreSQL • SQL Server • SQLite**
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,firebase,vercel,netlify,linux,figma" />
+</p>
+
+**Git • GitHub • Postman • Firebase • Vercel • Netlify • Linux • Figma**
+
+### Also Worked With
+
+**Angular • React Native • Socket.io • Redux-Saga • Zustand • PWA • Three.js • WordPress • Elementor • WordPress CLI • PHP**
+
+---
+
+## 📚 Currently Learning
+
+I'm intentionally focusing on fundamentals instead of endlessly adding technologies to my stack.
+
+### Current Focus
+
+```text
+DSA
+ ↓
+Problem Solving
+ ↓
+Backend Engineering
+ ↓
+System Design
+ ↓
+Scalable Applications
+ ↓
+AI-powered Products
+```
+
+### Learning Areas
+
+* 🧩 Data Structures & Algorithms
+* 🏗️ System Design
+* ⚙️ Advanced Node.js & Backend Development
+* 🗄️ Database Design & Optimization
+* 🔐 Authentication & Security
+* 🚀 Application Scalability
+* 🤖 AI Integration
+* ☁️ Deployment & Production Engineering
+
+---
+
+## 🔨 Projects
+
+I enjoy building projects that solve real problems and help me understand engineering concepts through implementation.
+
+### 🤖 Power of AI
+
+An AI-focused project exploring how AI can be integrated into useful products and workflows.
+
+**Focus:** AI • Full-Stack Development • Product Engineering
+
+---
+
+### 📚 WordBook
+
+A reading/learning-oriented application designed around improving the way users work with words and knowledge.
+
+**Focus:** React • Full-Stack Development • User Experience
+
+---
+
+### 🛒 BookBazaar
+
+A marketplace concept for buying and selling books.
+
+**Focus:** MERN • Marketplace Architecture • APIs • Database Design
+
+---
+
+### 🎯 HabitHarbor
+
+A productivity and habit-tracking concept focused on helping users consistently work toward their goals.
+
+**Focus:** Next.js • UI/UX • State Management • Persistent Data
+
+---
+
+### 🏢 TopDevFirms
+
+A platform concept for discovering and exploring software development companies.
+
+**Focus:** Web Development • Data • Search • Product Design
+
+---
+
+### ✍️ CaptionPro
+
+A tool-oriented project focused on generating and managing social-media captions.
+
+**Focus:** React • AI/Product Integration • UX
+
+---
+
+## 🧠 Engineering Interests
+
+I'm particularly interested in understanding:
+
+* How large applications are structured
+* How APIs are designed
+* How databases scale
+* Caching strategies
+* Authentication & authorization
+* Background jobs
+* Message queues
+* Real-time systems
+* Load balancing
+* Microservices vs monoliths
+* API performance
+* Database indexing
+* Distributed systems
+* Cloud architecture
+
+---
+
+## 📈 My Current Developer Goal
+
+I don't want to simply keep collecting technologies.
+
+My current goal is to become a developer who can:
+
+> **Understand a problem → design the system → build the backend → build the frontend → deploy it → monitor it → improve it.**
+
+I'm working toward becoming a stronger **Full-Stack / Backend Engineer** with solid DSA and System Design fundamentals.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keshri29&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshri29&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshri29&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## ✍️ Writing & Learning
+
+I also write about technology, development and things I'm learning along my software engineering journey.
+
+🌐 **Portfolio / Blog:**
+(https://anuragkumar.dpdns.org/)
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://github.com/keshri29">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/anurag-kumar-aab8a61a7/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/keshri029">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/anurag.env/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:keshrianurag690@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+## ⚡ A Little About Me
+
+```javascript
+const anurag = {
+    role: "Full-Stack Developer",
+
+    primaryStack: [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Express",
+        "MongoDB"
+    ],
+
+    currentlyLearning: [
+        "DSA",
+        "System Design",
+        "Backend Engineering"
+    ],
+
+    interests: [
+        "Scalable Systems",
+        "AI Products",
+        "Open Source",
+        "Product Engineering"
+    ],
+
+    philosophy:
+        "Build. Learn. Break things. Understand why. Build better."
+};
+```
+
+---
+
+### ⭐ If you find something useful here
+
+Feel free to explore my repositories, open an issue, or connect with me.
+
+**Thanks for visiting! 🚀**
