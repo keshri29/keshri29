@@ -2,6 +2,14 @@
 
 ### Full-Stack Developer | MERN | React | Node.js | Backend Engineering
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./anurag-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./anurag-graph-light.svg" />
+    <img alt="ANURAG on a contribution graph" src="./anurag-graph-light.svg" />
+  </picture>
+</p>
+
 I'm a **Full-Stack Developer from India** focused on building practical, scalable and user-friendly web applications.
 
 I enjoy working across the stack — from designing responsive interfaces and reusable React components to building REST APIs, authentication systems, databases and backend services.
